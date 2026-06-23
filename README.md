@@ -16,7 +16,7 @@ TestNG Listener
 Screenshot Capture on Failure
 Extent Reporting
 Logging with Log4j
-Data-Driven Testing Support
+
 Project Structure
 base
 pages

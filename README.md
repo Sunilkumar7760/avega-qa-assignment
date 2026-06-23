@@ -37,6 +37,3 @@ Extent Report is generated at:
 
 test-output/ExtentReport.html
 
-Screenshots
-
-Screenshots are automatically captured for failed test cases and stored in the screenshots folder.
